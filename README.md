@@ -11,18 +11,18 @@ I'm a Computer Science & Physics student at Gettysburg College (Class of 2026) w
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B) \
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) \
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) \
-![SQL](https://img.shields.io-badge/-SQL-05122A?style=flat&logo=postgresql) \
-![PHP](https://img.shields.io-badge/-PHP-05122A?style=flat&logo=php) \
-![Node.js](https://img.shields.io-badge/-Node.js-05122A?style=flat&logo=node.js) \
-![React](https://img.shields.io-badge/-React-05122A?style=flat&logo=react) \
-![Docker](https://img.shields.io-badge/-Docker-05122A?style=flat&logo=docker) \
-![Kubernetes](https://img.shields.io-badge/-Kubernetes-05122A?style=flat&logo=kubernetes) \
-![AWS](https://img.shields.io-badge/-AWS-05122A?style=flat&logo=amazonaws) \
-![Google Cloud](https://img.shields.io-badge/-Google%20Cloud-05122A?style=flat&logo=googlecloud) \
-![Prometheus](https://img.shields.io-badge/-Prometheus-05122A?style=flat&logo=prometheus) \
-![Grafana](https://img.shields.io-badge/-Grafana-05122A?style=flat&logo=grafana) \
-![Git](https://img.shields.io-badge/-Git-05122A?style=flat&logo=git) \
-![Linux](https://img.shields.io-badge/-Linux-05122A?style=flat&logo=linux)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql) \
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) \
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) \
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) \
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) \
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes) \
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws) \
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=googlecloud) \
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus) \
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana) \
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) \
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 
 ## 🚀 Projects
 
