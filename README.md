@@ -1,6 +1,6 @@
 # Hello, I'm Tanaka Gabriel Gozo! 👋
 
-I'm a Computer Science & Physics student at Gettysburg College (Class of 2026) with a passion for building scalable software systems, working on innovative IoT solutions, and exploring scientific computing. My experiences range from building cloud‑native infrastructure at Splunk/Cisco to developing IoT backend systems at Amazon and running high‑performance simulations in research labs.
+I'm a Computer Science & Physics student at Gettysburg College (Class of 2026) with a passion for building scalable software systems, working on innovative IoT solutions, and exploring scientific computing.
 
 ## 🛠 Skills & Tools
 
